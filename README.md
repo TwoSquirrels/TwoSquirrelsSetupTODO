@@ -5,7 +5,7 @@
 ### Browsers
 
 1. Install Vivaldi
-2. Setting Vivaldi: Add Google Translate
+2. Setting Vivaldi: Add Google Translate Plugin
 
 ### SNS
 
@@ -23,11 +23,12 @@
 3. Install trash-cli
 4. Install Git Bash
 5. Setting Git Bash
-6. Enable Windows Subsystem for Linux
-7. Install Ubuntu
-8. Setting Ubuntu
-9. Install Windows Terminal
-10. Setting WIndows Terminal
+6. Setting Git
+7. Enable Windows Subsystem for Linux
+8. Install Ubuntu
+9. Setting Ubuntu
+10. Install Windows Terminal
+11. Setting WIndows Terminal
 
 ### Programming
 
@@ -40,6 +41,9 @@
 7. Install Visual Studio
 8. Setting Visual Studio
 9. Install DxLib
+10. Install MakeFile
+11. Install Maven
+12. Install Gradle
 
 ### Image
 
