@@ -1,6 +1,9 @@
 # TwoSquirrelsSettings
 
+
+
 ## Windows
+
 
 ### Browsers
 
@@ -64,3 +67,15 @@
 3. Install おーとくりっか～
 4. Install GameServerHostingTool
 5. Install Nox Player
+
+
+## Debian
+
+
+### 
+
+
+## Android
+
+
+### 
