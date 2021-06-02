@@ -49,7 +49,7 @@
 <br /><br />
 - [ ] Visual Studio Build Tools
 - [ ] MakeFile
-  - Add Makefile plugin to IntelliJ
+  - [ ] Add Makefile plugin to IntelliJ
 - [ ] Java
   - [ ] Maven
   - [ ] Gradle
