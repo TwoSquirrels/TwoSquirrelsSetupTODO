@@ -48,5 +48,7 @@ git config --global diff.renames true
 
 よく使うもの/使いたいもの
 ```shell
+git config --global alias.status 'status --short --branch'
+git config --global alias.log 'log --stat --decorate --find-renames'
 git config --global alias.graph 'log --graph --decorate --oneline'
 ```
