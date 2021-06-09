@@ -29,11 +29,11 @@
 - [ ] trash-cli (After installing Python)
 - [ ] Git Bash
   - [ ] Set Bash configurations
-  - [ ] Set Git configurations
+  - [ ] [Set Git configurations](/Git.md)
 - [ ] Windows Subsystem for Linux
   - [ ] Ubuntu
   - [ ] Set Bash configurations
-  - [ ] Set Git configurations
+  - [ ] [Set Git configurations](/Git.md)
 - [ ] Windows Terminal
 
 ## Programming
