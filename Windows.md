@@ -3,8 +3,7 @@
 
 ## Browsers
 
-- [ ] Vivaldi
-  - [ ] Add Google Translate plugin
+- [ ] [Vivaldi](/Vivaldi.md)
 
 ## SNS
 
@@ -27,7 +26,7 @@
 - [ ] Gow
 - [ ] gsudo
 - [ ] trash-cli (After installing Python)
-- [ ] Git Bash
+- [ ] j Bash
   - [ ] Set Bash configurations
   - [ ] [Set Git configurations](/Git.md)
 - [ ] Windows Subsystem for Linux
