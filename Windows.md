@@ -7,7 +7,7 @@
 
 ## SNS
 
-- [ ] Discord
+- [ ] [Discord](/Discord.md)
 
 ## Games
 
