@@ -11,13 +11,11 @@
 
 ## Games
 
-- [ ] Minecraft
-  - [ ] Mods
-  - [ ] Set configurations
+- [ ] [Minecraft](/Minecraft.md)
   - [ ] NBTExplorer
-- [ ] Steam
+- [ ] [Steam](/Steam.md)
   - [ ] Undertale
-- [ ] EPIC Games
+- [ ] [EPIC Games](/EPIC_Games.md)
   - [ ] Among Us
   - [ ] Cities: Skylines
 
