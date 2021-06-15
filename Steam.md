@@ -2,12 +2,12 @@
 
 ## Download
 
-- [Windows]()
-- [Linux(GUI)]()
+- [Windows](https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe)
 
 ## ログイン
 
-`id`
+id: `__RomanGames__`  
+email: (私用のやつ)  
 
 ## 自動起動を無効にする
 
