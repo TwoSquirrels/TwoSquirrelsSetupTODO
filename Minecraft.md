@@ -8,14 +8,16 @@
 
 ## Login
 
-mcid: `TwoSquirrels`
-email: (public email)
+mcid: `TwoSquirrels`  
+email: (public email)  
 
 ## Settings
 
 ### 起動構成
 
-- Vanilla Latest
+| Profile        | Version | Mods | GamePath           |
+| :------------: | :-----: | :--- | :----------------- |
+| Latest release | latest  |      | .minecraft\Vanilla |
 
 ### PojavLauncher
 
