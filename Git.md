@@ -44,6 +44,14 @@ git config --global color.branch auto
 git config --global diff.renames true
 ```
 
+### デフォルトブランチをmainにする
+
+GitHubのデフォルトブランチ名が Black Lives Matter の観点から`master`から`main`になったのでそれに合わせて
+
+```shell
+git config --global init.defaultBranch main
+```
+
 ### エイリアス
 
 よく使うもの/使いたいもの
