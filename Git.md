@@ -10,6 +10,7 @@
 ### ユーザー情報
 
 名前とメアドを指定
+
 ```shell
 git config --global user.name "TwoSquirrels"
 git config --global user.email "RisuRisu.TwoSquirrels@gmail.com"
@@ -18,12 +19,14 @@ git config --global user.email "RisuRisu.TwoSquirrels@gmail.com"
 ### エディター
 
 vimよりもemacs派
+
 ```shell
 git config --global core.editor 'emacs -nw'
 export GIT_EDITOR=emacs
 ```
 
 `~/.bash_aliases`で環境変数を設定するように
+
 ```shell
 export GIT_EDITOR=emacs
 ```
@@ -31,6 +34,7 @@ export GIT_EDITOR=emacs
 ### 色
 
 diffを見やすく！
+
 ```shell
 git config --global color.ui auto
 git config --global color.diff auto
@@ -52,9 +56,18 @@ GitHubのデフォルトブランチ名が Black Lives Matter の観点から`ma
 git config --global init.defaultBranch main
 ```
 
+### 絵文字コミットの為のテンプレート
+
+[詳しくはこれを参照](https://github.com/TwoSquirrels/commit-template)
+
+```shell
+wget -O ~/.gitmssage.txt https://github.com/TwoSquirrels/commit-template/blob/master/.gitmessage_with_emoji.txt ; git config --global commit.template ~/.gitmessage.txt
+```
+
 ### エイリアス
 
 よく使うもの/使いたいもの
+
 ```shell
 git config --global alias.status 'status --short --branch'
 git config --global alias.log 'log --stat --decorate --find-renames'
