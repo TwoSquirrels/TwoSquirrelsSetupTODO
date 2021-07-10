@@ -24,7 +24,7 @@
 - [ ] Gow
 - [ ] gsudo
 - [ ] trash-cli (After installing Python)
-- [ ] Git Bash
+- [ ] Git Bash (After installing Git)
   - [ ] Set Bash configurations
   - [ ] [Set Git configurations](/Git.md)
 - [ ] Windows Subsystem for Linux
@@ -44,6 +44,7 @@
 - [ ] Visual Studio Community
   - [ ] DxLib
 <br /><br />
+- [ ] Git -> Git Bash
 - [ ] Visual Studio Build Tools
 - [ ] MakeFile
   - [ ] Add Makefile plugin to IntelliJ
@@ -55,7 +56,7 @@
   - [ ] Add Rust plugin to IntelliJ
 - [ ] Clang
   - [ ] ... (JetBrains)
-- [ ] Python
+- [ ] Python -> trash-cli
   - [ ] Add Python plugin to IntelliJ
 - [ ] Node.js
   - [ ] ... (npm)
