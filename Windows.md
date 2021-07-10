@@ -24,7 +24,7 @@
 - [ ] Gow
 - [ ] gsudo
 - [ ] trash-cli (After installing Python)
-- [ ] j Bash
+- [ ] Git Bash
   - [ ] Set Bash configurations
   - [ ] [Set Git configurations](/Git.md)
 - [ ] Windows Subsystem for Linux
