@@ -61,7 +61,7 @@ git config --global init.defaultBranch main
 [詳しくはこれを参照](https://github.com/TwoSquirrels/commit-template)
 
 ```shell
-wget -O ~/.gitmessage.txt https://github.com/TwoSquirrels/commit-template/blob/master/.gitmessage_with_emoji.txt 
+wget -O ~/.gitmessage.txt https://raw.githubusercontent.com/TwoSquirrels/commit-template/master/.gitmessage_with_emoji.txt 
 git config --global commit.template ~/.gitmessage.txt
 ```
 
