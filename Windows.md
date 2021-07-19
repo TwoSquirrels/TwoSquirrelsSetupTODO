@@ -22,6 +22,7 @@
 ## Terminal
 
 - [ ] Gow
+- [ ] clink
 - [ ] gsudo
 - [ ] trash-cli (After installing Python)
 - [ ] Git Bash (After installing Git)
