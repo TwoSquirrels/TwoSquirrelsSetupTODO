@@ -91,7 +91,7 @@
 
 ## Others
 
-- [ ] Change Key
+- [ ] [Change Key](/ChgKey.md)
 - [ ] Folder Size for Windows
 - [ ] おーとくりっか～
 - [ ] GameServerHostingTool
