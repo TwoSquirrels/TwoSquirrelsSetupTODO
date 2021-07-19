@@ -19,6 +19,10 @@
   - [ ] Among Us
   - [ ] Cities: Skylines
 
+## Font
+
+- [ ] [Migu 2M](https://mix-mplus-ipa.osdn.jp/migu/)
+
 ## Terminal
 
 - [ ] [Gow](/Gow.md)
