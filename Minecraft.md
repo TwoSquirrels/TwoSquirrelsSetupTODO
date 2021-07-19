@@ -5,6 +5,7 @@
 - [Windows](https://launcher.mojang.com/download/Minecraft.exe)
 - [Linux](https://launcher.mojang.com/download/Minecraft.tar.gz)
 - [Android(PojavLauncher)](https://play.google.com/store/apps/details?id=net.kdt.pojavlaunch)
+- [Others](https://www.minecraft.net/ja-jp/download/alternative)
 
 ## Login
 
