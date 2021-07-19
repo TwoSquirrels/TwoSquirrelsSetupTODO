@@ -36,7 +36,7 @@
 
 ## Programming
 
-- [ ] Visual Studio Code
+- [ ] [Visual Studio Code](/VSCode.md)
   - [ ] Add plugins
 - [ ] Emacs
   - [ ] Add plugins
