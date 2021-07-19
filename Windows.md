@@ -22,7 +22,7 @@
 ## Terminal
 
 - [ ] [Gow](/Gow.md)
-- [ ] clink
+- [ ] [Clink](/Clink.md)
 - [ ] gsudo
 - [ ] trash-cli (After installing Python)
 - [ ] Git Bash (After installing Git)
