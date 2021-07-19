@@ -32,7 +32,7 @@
   - [ ] Ubuntu
   - [ ] Set Bash configurations
   - [ ] [Set Git configurations](/Git.md)
-- [ ] Windows Terminal
+- [ ] [Windows Terminal](/WindowsTerminal.md)
 
 ## Programming
 
