@@ -23,7 +23,7 @@
 
 - [ ] [Gow](/Gow.md)
 - [ ] [Clink](/Clink.md)
-- [ ] gsudo
+- [ ] [gsudo](/gsudo.md)
 - [ ] trash-cli (After installing Python)
 - [ ] Git Bash (After installing Git)
   - [ ] Set Bash configurations
