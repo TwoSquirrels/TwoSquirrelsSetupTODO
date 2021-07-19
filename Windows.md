@@ -21,7 +21,7 @@
 
 ## Terminal
 
-- [ ] Gow
+- [ ] [Gow](/Gow.md)
 - [ ] clink
 - [ ] gsudo
 - [ ] trash-cli (After installing Python)
