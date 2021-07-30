@@ -28,7 +28,7 @@
 - [ ] [Gow](/Gow.md)
 - [ ] [Clink](/Clink.md)
 - [ ] [gsudo](/gsudo.md)
-- [ ] trash-cli (After installing Python)
+- [ ] trash-cli (After installing NodeJS)
 - [ ] Git Bash (After installing Git)
   - [ ] Set Bash configurations
   - [ ] [Set Git configurations](/Git.md)
@@ -61,10 +61,7 @@
   - [ ] Add Rust plugin to IntelliJ
 - [ ] Clang
   - [ ] ... (JetBrains)
-- [ ] Python -> trash-cli
-  - [ ] Add Python plugin to IntelliJ
-- [ ] Node.js
-  - [ ] ... (npm)
+- [ ] Node.js -> trash-cli
 
 ## Image
 
