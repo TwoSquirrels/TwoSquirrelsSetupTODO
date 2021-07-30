@@ -42,25 +42,19 @@
 
 - [ ] [Visual Studio Code](/VSCode.md)
   - [ ] Add plugins
-- [ ] Emacs
-  - [ ] Add plugins
-- [ ] IntelliJ IDEA
-  - [ ] Add plugins
 - [ ] Visual Studio Community
   - [ ] DxLib
 <br /><br />
 - [ ] Git -> Git Bash
 - [ ] Visual Studio Build Tools
 - [ ] MakeFile
-  - [ ] Add Makefile plugin to IntelliJ
+  - [ ] Add Makefile plugin to VSCode
 - [ ] Java
   - [ ] Maven
   - [ ] Gradle
   - [ ] Kotlin
 - [ ] Rust
-  - [ ] Add Rust plugin to IntelliJ
-- [ ] Clang
-  - [ ] ... (JetBrains)
+  - [ ] Add Rust plugin to VSCode
 - [ ] Node.js -> trash-cli
 
 ## Image
