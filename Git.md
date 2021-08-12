@@ -78,5 +78,5 @@ git config --global commit.template ~/.gitmessage.txt
 ```shell
 git config --global alias.status 'status --short --branch'
 git config --global alias.log 'log --stat --decorate --find-renames'
-git config --global alias.graph 'log --graph --decorate --oneline'
+git config --global alias.graph 'log --graph --all --decorate --oneline'
 ```
