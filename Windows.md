@@ -47,14 +47,11 @@
 <br /><br />
 - [ ] Git -> Git Bash
 - [ ] Visual Studio Build Tools
-- [ ] MakeFile
-  - [ ] Add Makefile plugin to VSCode
+- [ ] CMake
 - [ ] Java
   - [ ] Maven
-  - [ ] Gradle
   - [ ] Kotlin
 - [ ] Rust
-  - [ ] Add Rust plugin to VSCode
 - [ ] Node.js -> trash-cli
 
 ## Image
