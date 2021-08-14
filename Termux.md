@@ -7,7 +7,7 @@
 
 ## Setup
 
-### [Set Bash configurations](/Bash.md)
+### [Set DebianCUI configurations](/Debian.md)
 
 ### connect to sdcard
 
