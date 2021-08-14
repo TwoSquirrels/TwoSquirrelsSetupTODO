@@ -33,6 +33,15 @@ comment out Bell key in ~/.termux/termux.properties
 bell-character = ignore
 ```
 
+### set font
+
+```shell
+cd /sdcard/Download
+wget https://github.com/miiton/Cica/releases/download/v5.0.2/Cica_v5.0.2_with_emoji.zip
+unzip -d Cica_v5.0.2_with_emoji Cica_v5.0.2_with_emoji.zip
+cp Cica_v5.0.2_with_emoji/Cica_Regular.ttf ~/.termux/font.ttf
+```
+
 ### set api commands
 
 ```shell
