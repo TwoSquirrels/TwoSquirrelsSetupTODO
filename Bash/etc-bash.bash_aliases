@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # prompt
 
 # root -> # , other -> $
