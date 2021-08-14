@@ -4,5 +4,5 @@
 ファイルをコピーして使う
 
 - [Windows](Windows.md)
-- [Debian(CUI)](Debian.md)
+- [Debian(CUI)](Debian-CUI.md)
 - [Android](Android.md)
