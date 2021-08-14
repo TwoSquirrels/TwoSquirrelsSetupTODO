@@ -27,4 +27,13 @@ apt install tree -y
 - [ ] trash-cli
 - [ ] [Emacs](Emacs.md)
 
-## 
+## [Set Bash configurations](/Bash.md)
+
+## Programming
+
+- [ ] CMake
+- [ ] Java
+  - [ ] Maven
+  - [ ] Kotlin
+- [ ] Rust
+- [ ] Node.js -> trash-cli
